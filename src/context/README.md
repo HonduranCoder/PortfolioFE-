@@ -1,0 +1,1 @@
+Manage the global state
