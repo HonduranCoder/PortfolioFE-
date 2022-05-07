@@ -1,29 +1,16 @@
 import {
   Box,
   Flex,
-  Avatar,
   HStack,
   Button,
-  Menu,
-  MenuButton,
-  MenuList,
-  MenuItem,
-  MenuDivider,
   useColorModeValue,
   useDisclosure,
   Stack,
   useColorMode,
-  Center,
   IconButton,
 } from '@chakra-ui/react';
 import { BrowserRouter as Router, Link } from 'react-router-dom';
-import {
-  MoonIcon,
-  SunIcon,
-  HamburgerIcon,
-  CloseIcon,
-  AddIcon,
-} from '@chakra-ui/icons';
+import { MoonIcon, SunIcon, HamburgerIcon, CloseIcon } from '@chakra-ui/icons';
 
 const Links = ['Profile', 'Projects', 'Resume'];
 
