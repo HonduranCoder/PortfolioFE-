@@ -72,6 +72,7 @@
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
     "@hypertheme-editor/chakra-ui": "^0.1.5",
+    "@netlify/plugin-nextjs": "^4.7.0",
     "client": "^0.0.1",
     "framer-motion": "^6.3.2",
     "next": "^12.1.5",
