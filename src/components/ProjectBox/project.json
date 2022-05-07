@@ -16,7 +16,7 @@
   {
     "image": "https://images.unsplash.com/photo-1514782831304-632d84503f6f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1635&q=80",
     "project": "HLPR",
-    "headline": "Find people to help with everyday tasks",
+    "headline": "Find people to help with everyday tasks.",
     "link": "https://hlpr.netlify.app/",
     "github": "https://github.com/HLPR-APP/HLPR"
   },
@@ -31,7 +31,7 @@
     "image": "https://images.unsplash.com/photo-1593340010859-83edd3d6d13f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2352&q=80",
     "project": "Juice-Books",
     "headline": "Back-end Project of SQL Tables for Books",
-    "link": "https://quiet-springs-89433.herokuapp.com/api/v1/",
+    "link": "https://github.com/ACL-Juice-Books/Juice-Books",
     "github": "https://github.com/ACL-Juice-Books/Juice-Books"
   },
   {
@@ -51,7 +51,7 @@
   {
     "image": "https://images.unsplash.com/photo-1611605698335-8b1569810432?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2274&q=80",
     "project": "Tech Twitter",
-    "headline": "Posting Resources",
+    "headline": "Resources & Learning in Public",
     "link": "https://twitter.com/HonduranCoder",
     "github": "https://github.com/HonduranCoder"
   }

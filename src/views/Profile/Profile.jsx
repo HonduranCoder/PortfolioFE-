@@ -1,17 +1,19 @@
-// import {
-//   Stack,
-//   Flex,
-//   Text,
-//   VStack,
-//   useBreakpointValue,
-// } from '@chakra-ui/react';
-// import { FaGithub } from 'react-icons/fa';
 import ProfileBox from '../../components/ProfileBox/ProfileBox.jsx';
+import profile from '../../components/ProfileBox/profile.json';
 
 export default function Profile() {
   return (
     <>
-      <ProfileBox />
+      <ul>
+        {profile.map((info, i) => {
+          return (
+            <li key={i}>
+              {' '}
+              <ProfileBox {...info} />{' '}
+            </li>
+          );
+        })}
+      </ul>
     </>
   );
 }

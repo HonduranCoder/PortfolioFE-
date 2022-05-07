@@ -52,7 +52,7 @@ export default function ProjectBox({ project, headline, image, link, github }) {
               bg={useColorModeValue('gray.50', 'gray.800')}
               fontWeight={'400'}
             >
-              #coding
+              devs
             </Badge>
             <Badge
               px={2}
@@ -61,7 +61,7 @@ export default function ProjectBox({ project, headline, image, link, github }) {
               fontWeight={'400'}
             >
               {' '}
-              #react{' '}
+              coding{' '}
             </Badge>
             <Badge
               px={2}
@@ -69,7 +69,7 @@ export default function ProjectBox({ project, headline, image, link, github }) {
               bg={useColorModeValue('gray.50', 'gray.800')}
               fontWeight={'400'}
             >
-              #projects
+              projects
             </Badge>
           </Stack>
           <Stack
